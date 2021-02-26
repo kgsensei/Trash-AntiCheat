@@ -2,7 +2,7 @@
 A free, open source AntiCheat for your indie game.
 
 # How to use
-TrashAC.py -lauch "path to launch file here" -scantype "once or forever"
+> TrashAC.py -lauch "path to launch file here" -scantype "once or forever"
 
 If Trash AntiCheat detects a safe enviornment than it will launch the file you choose. You can also set the scan type, once, for just on startup or forever to scan the computer for issues forever.
 
